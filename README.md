@@ -1,2 +1,2 @@
 # Fresco
-Fresco Repository Check
+Fresco Repository Check for demonstration
